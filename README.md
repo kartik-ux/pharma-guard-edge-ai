@@ -7,4 +7,5 @@
 
 ### FastAPI Interactive API Documentation
 
-![PHARMA-GUARD API Documentation](docs/images/api-documentation.png)
+![PHARMA-GUARD API Documentation](docs/images/api-documentation.png)<img width="2510" height="1450" alt="Image 02-11-26 at 10 47 AM" src="https://github.com/user-attachments/assets/6877aef0-2695-4a27-92d7-0ba3f0b7bc1c" />
+
